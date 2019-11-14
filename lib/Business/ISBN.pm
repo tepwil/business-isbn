@@ -116,7 +116,7 @@ BEGIN {
 		);
 	};
 
-$VERSION   = '3.004';
+$VERSION   = '3.004_01';
 
 sub ARTICLE_CODE_OUT_OF_RANGE () { -5 }
 sub INVALID_PREFIX            () { -4 };
